@@ -1,0 +1,14 @@
+c:\users\bugui\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\SistemaVentaCalzados.exe.config
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\obj\Debug\SistemaVentaCalzados.csprojResolveAssemblyReference.cache
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\obj\Debug\SistemaVentaCalzados.Properties.Resources.resources
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\obj\Debug\SistemaVentaCalzados.csproj.GenerateResource.Cache
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\SistemaVentaCalzados.exe
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\SistemaVentaCalzados.pdb
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaPresentacion.dll
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaPresentacion.pdb
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\obj\Debug\SistemaVentaCalzados.exe
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\obj\Debug\SistemaVentaCalzados.pdb
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaNegocios.dll
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaDatos.dll
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaNegocios.pdb
+C:\Users\BUGUI\documents\visual studio 2012\Projects\SistemaVentaCalzados\SistemaVentaCalzados\bin\Debug\CapaDatos.pdb
